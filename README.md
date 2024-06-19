@@ -4,3 +4,8 @@
 ```shell
 vite
 ```
+
+The same for bundling
+```shell
+vite build
+```
